@@ -12,7 +12,7 @@
 
 ## Ferramentas e tecnologias
 
-<div style="display: flex; gap: 50 px; align-items: center;">
+<div style="display: flex; gap: 500 px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" />
