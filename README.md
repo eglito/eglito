@@ -1,21 +1,27 @@
 # Olá, este é meu repositório pessoal.
-## Me chamo Alexandre, mas pode me chamar de Lê!
 
-  
-<!--
-**eglito/eglito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me chamo Alexandre, mas pode me chamar de Lê!**
 
-Here are some ideas to get you started:
+## **Aqui estão algumas informações sobre mim:**
 
 - 🔭 Professor em transição de carreira
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudante de Tecnologia da Informação
+- 🤔 Interesse em desenvolvimento back-end 
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: gosto de ciclismo e do Sport Club Corinthians Paulista 
+
+## Ferramentas e tecnologias
+
+<div style="display: flex; gap: 50 px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>  
+</div>
+
+        
+
 
 ## Contatos:
 
