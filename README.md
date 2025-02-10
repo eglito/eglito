@@ -1,4 +1,4 @@
-# Olá, este é meu repositório pessoal.
+# Olá, este é meu repositório pessoal
 
 **Me chamo Alexandre, mas pode me chamar de Lê!**
 
