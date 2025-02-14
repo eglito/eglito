@@ -6,7 +6,8 @@
 
 - 🔭 Professor em transição de carreira
 - 🌱 Estudante de Tecnologia da Informação
-- 🤔 Interesse em desenvolvimento back-end 
+- 🤔 Interesse em desenvolvimento back-end
+- 🌟 Curioso e apaixonado por desafios
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: gosto de ciclismo e do Sport Club Corinthians Paulista 
 
