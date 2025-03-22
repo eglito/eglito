@@ -23,7 +23,6 @@
 
         
 
-
 ## Contatos:
 
 <div>
@@ -31,11 +30,3 @@
 <a href="https://www.linkedin.com/in/alexandre-adriano-3bb729346/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-## Minhas estatísticas:
-
-<div>
-<a href="https://github.com/eglito">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglito&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eglito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
